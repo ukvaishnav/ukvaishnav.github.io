@@ -1,0 +1,9 @@
+# Site settings
+title: P3
+author:
+  name: Umesh Kumar
+  email: umesh.kumar@icts.res.in
+description: "Python, Physics, PhD."
+
+# Build settings
+remote_theme: jekyll/minima
