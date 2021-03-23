@@ -7,3 +7,10 @@ description: "Python, Physics, PhD."
 
 # Build settings
 remote_theme: jekyll/minima
+
+# Navigation tabs
+header_pages:
+  - about.md
+  - courses.md
+  - projects.md
+  - python.md
