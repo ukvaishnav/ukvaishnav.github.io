@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Courses
-mathjax: true
 ---
 
-[Classical Electromagnetism](./CEM/classical-em.md)
+[Classical Electromagnetism](./courses/CEM/classical-em.md)

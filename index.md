@@ -2,10 +2,10 @@
 layout: home
 ---
 
-[Current Projects](./projects/current.md)
+[Projects](./projects.md)
 
-[Current Courses](./courses/current.md)
+[Physics](./courses.md)
 
-[Python](./python/scripts.md)
+[Python](./python.md)
 
-[Physics Topics](./physics/topics.md)
+[Physics Topics](./physics-topics.md)
