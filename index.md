@@ -9,4 +9,3 @@ layout: home
 [Python](./python/scripts.md)
 
 [Physics Topics](./physics/topics.md)
-

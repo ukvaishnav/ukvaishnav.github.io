@@ -10,7 +10,6 @@ remote_theme: jekyll/minima
 
 # Navigation tabs
 header_pages:
-  - about.md
-  - courses.md
-  - projects.md
+  - courses.md # PhD
+  - projects.md # Physics
   - python.md
