@@ -153,7 +153,7 @@ the required list for shift.
 
 ```python
 d_ = {i : shift_id_list.count(i) for i in shift_id_list}
-
+shift = []
 start_row = 0
 for shift_id, shift_entry in d_.items():
     shift.append([shift_id, [[shift_time[i], shift_items_sold[i]] for i in range(start_row, start_row + shift_entry)]])
