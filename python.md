@@ -3,6 +3,6 @@ layout: page
 title: Python
 ---
 
-This page will contain link to python programs I created.
-
-```(PAGE UNDER CONSTRUCTTION)```
+{% for post in site.categories.python %}
+    <a href="{{ post.url }}">{{ post.title }}</a>
+{% endfor %}

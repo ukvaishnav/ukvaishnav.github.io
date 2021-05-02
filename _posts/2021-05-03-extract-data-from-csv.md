@@ -1,9 +1,8 @@
 ---
 layout: post
 title: How to extract data from csv file and store it in numpy array
-tags: first markdown example
+tags: csv, excel, python
 categories: python
-mathjax: true
 ---
 
 # Problem Statement
