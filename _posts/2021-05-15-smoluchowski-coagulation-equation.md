@@ -37,11 +37,11 @@ $$
  
 This implies,
 
-$$\begin{eqnarray} 
-\rho_w 4\pi R^2 \frac{dR}{dt} &= D n_o \int \delta^{(3)}(\mathbf{r}-\mathbf{R}) r dr d\Omega\\
-&= 4\pi D n_o R \\
-\Rightarrow \frac{dR}{dt} &\propto \frac{1}{R}
-\end{eqnarray}$$
+$$\begin{equation} 
+\rho_w 4\pi R^2 \frac{dR}{dt} = D n_o \int \delta^{(3)}(\mathbf{r}-\mathbf{R}) r dr d\Omega = 4\pi D n_o R \\
+\end{equation}$$
+
+$$\Rightarrow \frac{dR}{dt} \propto \frac{1}{R}$$
 
 This implies that growth of cloud droplets must occur via some other method. 
 
@@ -102,5 +102,8 @@ In above case, $K(x_1, x_2) = \pi (r_1 + r_2)^2 \delta v E(x_1, x_2)$ this is ca
 gravitational or geometric kernel. $E(x_1, x_2)$ is the called the efficiency of coagulation. 
 In our case, we assumed that any droplet in the sweeped volume will definitely collide and 
 coalesce. This means in our case $E(x_1, x_2) = 1$. Efficiency is dependent on various 
-factors, namely, (1) hydrodynamic interactions among the droplets, (2) turbulence flow of 
-background field, (3) Electric field etc.
+factors, namely, 
+
+1. hydrodynamic interactions among the droplets, 
+2. turbulence flow of  background field, 
+3. Electric field etc.
