@@ -61,5 +61,5 @@ $v_{term} = \frac{2\rho g r^2}{9\eta}$. Hence the size-1 drops fall at speed $v_
 all size-2 drops fall at speed $v_2$. Let us observe the motion of one size-1 droplet w.r.t. 
 size-2 droplet.
 
-![Big drop falling through the sea of the small droplets](img/post-physics-sce-fig1a.png) 
-![Volume swept by big droplet through sea of small droplets](img/post-physics-sce-fig1b.png)
+![Big drop falling through the sea of the small droplets](img/post-physics-sce-fig1a.jpg) 
+![Volume swept by big droplet through sea of small droplets](img/post-physics-sce-fig1b.jpg)
