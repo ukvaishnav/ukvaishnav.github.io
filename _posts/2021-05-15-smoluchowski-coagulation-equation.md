@@ -68,16 +68,16 @@ size-2 droplet.
 |:--------:|:---------:|
 |*Big drop falling through the sea of the small droplets*|*Volume swept by big droplet through sea of small droplets*|
 
-[Fig. 1(b)](#fig1b) shows that size-1 droplet sweeps volume at a rate of $\pi (r_1 + r_2)^2 \delta v$. 
+[Fig. 1(b)](#fig1b) shows that size-1 droplet sweeps volume at a rate of $\pi (r_1 + r_2)^2 \Delta v$. 
 For now let us assume that all size-2 droplets encountered by size-1 droplet gets absorbed 
 and lead to increase in volume at a rate of 
 
 $$
-\frac{d\mathcal{V}}{dt} = \pi (r_1 + r_2)^2 \delta v \times N_2
+\frac{d\mathcal{V}}{dt} = \pi (r_1 + r_2)^2 \Delta v \times N_2
 $$
 
 The total number of collision between size-1 and size-2 group is given by 
-$\pi (r_1 + r_2)^2 \delta v \times N_1 N_2$. Since the process of coagulation is stochastic, 
+$\pi (r_1 + r_2)^2 \Delta v \times N_1 N_2$. Since the process of coagulation is stochastic, 
 the above formula gives average rate of collision between size-1 and size-2 groups. Now we 
 can generalise the approach to system with any number of size groups, by allowing a 
 distribution for number density $n(x)$, here $x$ can be radius, log(radius) or volume, but 
@@ -98,7 +98,7 @@ n(x_1, t) n(x_2, t) K(x_1, x_2) dx_1 dx_2 dt
 \end{equation}$$
 
 where $K(x_1, x_2)$ is kernel for coagulation\footnote{collision followed by coalescence}. 
-In above case, $K(x_1, x_2) = \pi (r_1 + r_2)^2 \delta v E(x_1, x_2)$ this is called 
+In above case, $K(x_1, x_2) = \pi (r_1 + r_2)^2 \Delta v E(x_1, x_2)$ this is called 
 gravitational or geometric kernel. $E(x_1, x_2)$ is the called the efficiency of coagulation. 
 In our case, we assumed that any droplet in the sweeped volume will definitely collide and 
 coalesce. This means in our case $E(x_1, x_2) = 1$. Efficiency is dependent on various 
