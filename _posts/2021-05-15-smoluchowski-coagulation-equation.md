@@ -64,7 +64,7 @@ $$\begin{figure}[ht]
 \label{fig:fig1}
 \end{figure}$$
 
-Fig.\ref{fig1a} shows that size-1 droplet sweeps volume at a rate of $\pi (r_1 + r_2)^2 \delta v$. 
+Fig.$\ref{fig1a}$ shows that size-1 droplet sweeps volume at a rate of $\pi (r_1 + r_2)^2 \delta v$. 
 For now let us assume that all size-2 droplets encountered by size-1 droplet gets absorbed 
 and lead to increase in volume at a rate of 
 

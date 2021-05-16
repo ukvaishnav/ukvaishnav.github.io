@@ -4,6 +4,10 @@ title: Projects
 mathjax: true
 ---
 
-This page will contain links to all projects information 
+<ul>
 
-```(PAGE UNDER CONSTRUCTTION)```
+{% for post in site.categories.physics %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+
+</ul>
