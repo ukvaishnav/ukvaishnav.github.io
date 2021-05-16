@@ -39,9 +39,21 @@ This implies,
 
 $$\begin{eqnarray} 
 \rho_w 4\pi R^2 \frac{dR}{dt} &= D n_o \int \delta^{(3)}(\mathbf{r}-\mathbf{R}) r dr d\Omega\\
-&= 4\pi D n_o R 
+&= 4\pi D n_o R \\
 \Rightarrow \frac{dR}{dt} &\propto \frac{1}{R}
 \end{eqnarray}$$
 
 This implies that growth of cloud droplets must occur via some other method. 
+
+# Simple Argument of Bi-dispersed cloud
+
+Consider a bi-disperse cloud\footnote{Cloud with droplets of only two size groups.}. Let 
+size-1 droplet has radius $r_1$, volume $x_1$ and number density, $N_1$. The same for size-2 
+droplet. Assume that our droplets are stokesian i.e. the drag force experienced by them can 
+be given by stokes law $\mathbf{F}_{drag} = -6\pi \eta r \mathbf{v}$. This implies that the 
+drops fall at their terminal speed given by, $v_{term} = \frac{2\rho g r^2}{9\eta}$. Hence 
+the size-1 drops fall at speed $v_1$ where as all size-2 drops fall at speed $v_2$. Let us 
+observe the motion of one size-1 droplet w.r.t. size-2 droplet.
+
+![Big drop falling through the sea of the small droplets\label{fig:1a}](/img/post-physics-sce-fig1a.png) ![Volume swept by big droplet through sea of small droplets\label{fig:1b}](/img/post-physics-sce-fig1b.png)
 
