@@ -93,7 +93,7 @@ The equation~$\eqref{two-groups-rate}$ can be used to write down the probability
 size-$x_1$ collide with a size-$x_2$ droplet in time interval $t$ to $t+dt$ as
 
 $$\begin{equation}
-(n(x_1, t) n(x_2, t) K(x_1, x_2) dx_1 dx_2 dt
+n(x_1, t) n(x_2, t) K(x_1, x_2) dx_1 dx_2 dt
 \label{collision-prob}
 \end{equation}$$
 
