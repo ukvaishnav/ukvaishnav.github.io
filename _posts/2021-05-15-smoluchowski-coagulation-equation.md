@@ -68,7 +68,7 @@ size-2 droplet.
 |:--------:|:---------:|
 |*Big drop falling through the sea of the small droplets*|*Volume swept by big droplet through sea of small droplets*|
 
-[#Fig. 1(b)][#fig1b] shows that size-1 droplet sweeps volume at a rate of $\pi (r_1 + r_2)^2 \delta v$. For now let us assume that all size-2 droplets encountered by size-1 droplet gets absorbed and lead to increase in volume at a rate of 
+[#Fig. 1(b)](#fig1b) shows that size-1 droplet sweeps volume at a rate of $\pi (r_1 + r_2)^2 \delta v$. For now let us assume that all size-2 droplets encountered by size-1 droplet gets absorbed and lead to increase in volume at a rate of 
 
 $$
 \frac{d\mathcal{V}}{dt} = \pi (r_1 + r_2)^2 \delta v \times N_2
