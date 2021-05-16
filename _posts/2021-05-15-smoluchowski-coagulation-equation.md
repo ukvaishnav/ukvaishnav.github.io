@@ -51,7 +51,7 @@ Consider a bi-disperse cloud\footnote{Cloud with droplets of only two size group
 size-1 droplet has radius $r_1$, volume $x_1$ and number density, $N_1$. The same for size-2 
 droplet. Assume that our droplets are stokesian i.e. the drag force experienced by them can 
 be given by stokes law
- 
+
 $$
 \mathbf{F}_{drag} = -6\pi \eta r \mathbf{v}
 $$
@@ -61,6 +61,6 @@ $v_{term} = \frac{2\rho g r^2}{9\eta}$. Hence the size-1 drops fall at speed $v_
 all size-2 drops fall at speed $v_2$. Let us observe the motion of one size-1 droplet w.r.t. 
 size-2 droplet.
 
-![Big drop falling through the sea of the small droplets\label{fig:1a}](img/post-physics-sce-fig1a.png) 
-![Volume swept by big droplet through sea of small droplets\label{fig:1b}](img/post-physics-sce-fig1b.png)
+![Big drop falling through the sea of the small droplets](img/post-physics-sce-fig1a.png) 
+![Volume swept by big droplet through sea of small droplets](img/post-physics-sce-fig1b.png)
 
