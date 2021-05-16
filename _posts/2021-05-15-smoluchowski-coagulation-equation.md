@@ -68,7 +68,7 @@ size-2 droplet.
 |:--------:|:---------:|
 |*Big drop falling through the sea of the small droplets*|*Volume swept by big droplet through sea of small droplets*|
 
-[fig1b][#Fig. 1(b)] shows that size-1 droplet sweeps volume at a rate of $\pi (r_1 + r_2)^2 \delta v$. For now let us assume that all size-2 droplets encountered by size-1 droplet gets absorbed and lead to increase in volume at a rate of 
+[#Fig. 1(b)][#fig1b] shows that size-1 droplet sweeps volume at a rate of $\pi (r_1 + r_2)^2 \delta v$. For now let us assume that all size-2 droplets encountered by size-1 droplet gets absorbed and lead to increase in volume at a rate of 
 
 $$
 \frac{d\mathcal{V}}{dt} = \pi (r_1 + r_2)^2 \delta v \times N_2
@@ -87,7 +87,7 @@ N_1 \rightarrow n(x_1,t) dx_1; N_2 \rightarrow n(x_2,t) dx_2
 \label{two-groups-rate}
 \end{equation}$$
 
-The equation~\eqref{two-groups-rate} can be used to write down the probability that a 
+The equation~$\eqref{two-groups-rate}$ can be used to write down the probability that a 
 size-$x_1$ collide with a size-$x_2$ droplet in time interval $t$ to $t+dt$ as
 
 $$\begin{equation}
