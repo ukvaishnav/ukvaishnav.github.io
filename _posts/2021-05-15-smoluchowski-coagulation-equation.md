@@ -64,7 +64,7 @@ size-2 droplet.
 [fig1a]: {{site.baseurl}}/img/post-physics-sce-fig1a.jpg "Image Title1" 
 [fig1b]: {{site.baseurl}}/img/post-physics-sce-fig1b.jpg "Image Title2" 
 
-| ![Big drop through sea of small droplets](fig1a) | ![Volume swept]({{site.baseurl}}/img/post-physics-sce-fig1b.jpg)|
+| ![Big drop through sea of small droplets][fig1a] | ![Volume swept][fig1b]|
 |:--------:|:---------:|
 |*Big drop falling through the sea of the small droplets*|*Volume swept by big droplet through sea of small droplets*|
 
